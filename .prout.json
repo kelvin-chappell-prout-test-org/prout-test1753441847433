@@ -1,0 +1,5 @@
+{
+  "checkpoints": {
+    "PROD": { "url": "http://example.com/", "overdue": "5M"}
+  }
+}
